@@ -1,0 +1,5 @@
+names:
+- pneumonia
+nc: 1
+train: TO/BE/DETERMINED # pneumonia_data/images/train
+val: TO/BE/DETERMINED # pneumonia_data/images/validation
